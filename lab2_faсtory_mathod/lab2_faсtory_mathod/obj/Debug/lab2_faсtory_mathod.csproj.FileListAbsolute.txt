@@ -1,0 +1,10 @@
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\bin\Debug\lab2_faсtory_mathod.exe.config
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\bin\Debug\lab2_faсtory_mathod.exe
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\bin\Debug\lab2_faсtory_mathod.pdb
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.csproj.AssemblyReference.cache
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.MainForm.resources
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.Properties.Resources.resources
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.csproj.GenerateResource.cache
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.csproj.CoreCompileInputs.cache
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.exe
+D:\Ариша\lab2_faсtory_mathod\lab2_faсtory_mathod\obj\Debug\lab2_faсtory_mathod.pdb
